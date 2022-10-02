@@ -10,3 +10,6 @@ Unity 2022.1.16 or latest, below module is require
 - Open JDK
 
 Download com.ptc.vuforia.engine-10.10.2.tgz and keep it inside Packages folder
+
+# Start Project
+Go to Scenes folder, open SarongAr scene, press Play button and enjoy!
